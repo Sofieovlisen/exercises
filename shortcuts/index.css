@@ -1,0 +1,6 @@
+.card_p_text{color: red;}
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.card{display: grid;
+grid-template-columns: 1fr 1fr;}
+img{width: 100%;
+}
